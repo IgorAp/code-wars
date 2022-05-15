@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata", "CodeWars.Kata\CodeWars.Kata.csproj", "{CD708DC6-B14B-4893-8012-247542376304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata.Tests", "CodeWars.Kata.Tests\CodeWars.Kata.Tests.csproj", "{1FB0D0B5-DD14-40D9-8B02-A7E790A67024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD708DC6-B14B-4893-8012-247542376304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD708DC6-B14B-4893-8012-247542376304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD708DC6-B14B-4893-8012-247542376304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD708DC6-B14B-4893-8012-247542376304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB0D0B5-DD14-40D9-8B02-A7E790A67024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB0D0B5-DD14-40D9-8B02-A7E790A67024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB0D0B5-DD14-40D9-8B02-A7E790A67024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB0D0B5-DD14-40D9-8B02-A7E790A67024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB16E720-9E81-4015-A1BA-7948C3CFF514}
+	EndGlobalSection
+EndGlobal
